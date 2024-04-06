@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to cope with compilers' project
 - 💞️ I’m looking to collaborate on software engineering projects and more
 - 📫 How to reach me in a satisfying level of computer knowledge
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Coping is the key
 
 <!---
